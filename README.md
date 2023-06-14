@@ -1,2 +1,0 @@
-# javatest
-github test(java)
