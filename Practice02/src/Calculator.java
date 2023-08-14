@@ -1,7 +1,7 @@
 
 public class Calculator {
 	void powerOn() {//메소드1
-		System.out.println("전원이 켜졌습니다");
+		System.out.println("전원이 켜ddddddddd졌습니다");
 	}
 		
 	void powewrOff() {//메소드2
